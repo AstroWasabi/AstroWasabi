@@ -3,4 +3,4 @@
 I'm a Master's student at Ritsumeikan University in Osaka, Japan.                                                                                                                                  
 My research focuses on evaluating concurrent post-quantum key exchange (ML-KEM, FrodoKEM, BIKE) and hardware-aware adaptive telemetry to eliminate TLS 1.3 handshake bottlenecks across bare-metal and cloud environments.                                                                                                                                                                        
 Feel free to check out my pinned repositories below!                                                                                                                                          
-📫 **Reach me at:** [harithasapranav@gmail.com](mailto:harithasapranav@gmail.com) | [LinkedIn](https://linkedin.com)
+📫 **Reach me at:** [harithasapranav@gmail.com](mailto:harithasapranav@gmail.com) | [LinkedIn](www.linkedin.com/in/pranavharithasa)
